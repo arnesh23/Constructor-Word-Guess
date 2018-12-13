@@ -1,0 +1,25 @@
+{
+  "name": "Constructor-Word-Guess",
+  "version": "1.0.0",
+  "description": "This is constructor Game. It is written using node.js. The packages used are npm Inquirer and Prompt.",
+  "main": "Index.js",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnesh23/Constructor-Word-Guess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnesh23/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/arnesh23/Constructor-Word-Guess#readme"
+}
